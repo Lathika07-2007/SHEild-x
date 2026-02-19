@@ -1,0 +1,62 @@
+[
+  {
+    "lat": 11.0183,
+    "lon": 76.9725,
+    "severity": 0.9,
+    "type": "accident_hotspot"
+  },
+  {
+    "lat": 11.0054,
+    "lon": 76.9611,
+    "severity": 0.7,
+    "type": "theft_prone"
+  },
+  {
+    "lat": 10.9985,
+    "lon": 76.9618,
+    "severity": 0.8,
+    "type": "accident_hotspot"
+  },
+  {
+    "lat": 11.0149,
+    "lon": 76.9934,
+    "severity": 0.6,
+    "type": "robbery"
+  },
+  {
+    "lat": 11.0259,
+    "lon": 76.9795,
+    "severity": 0.7,
+    "type": "accident_hotspot"
+  },
+  {
+    "lat": 10.9922,
+    "lon": 76.9467,
+    "severity": 0.5,
+    "type": "snatching"
+  },
+  {
+    "lat": 11.0217,
+    "lon": 76.9434,
+    "severity": 0.8,
+    "type": "accident_hotspot"
+  },
+  {
+    "lat": 11.0506,
+    "lon": 76.9439,
+    "severity": 0.6,
+    "type": "theft"
+  },
+  {
+    "lat": 11.0231,
+    "lon": 77.0145,
+    "severity": 0.7,
+    "type": "accident"
+  },
+  {
+    "lat": 11.0351,
+    "lon": 76.9986,
+    "severity": 0.4,
+    "type": "robbery"
+  }
+]

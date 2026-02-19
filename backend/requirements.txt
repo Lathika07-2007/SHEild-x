@@ -1,0 +1,10 @@
+osmnx
+networkx
+flask
+flask-cors
+numpy
+pandas
+geopandas
+shapely
+folium
+requests
